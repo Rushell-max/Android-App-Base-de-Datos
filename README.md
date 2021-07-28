@@ -15,5 +15,5 @@ Funcionalidades: Lista de Clientes, Nuevo Cliente
 
 Entregable: 
   
-  Repositorio Github conteniendo el proyecto
-  Evidencias de ejecución - prints
+    Repositorio Github conteniendo el proyecto
+    Evidencias de ejecución - prints
